@@ -1,0 +1,15 @@
+Joseloid International Airport
+Torre de controle: mensagens enviadas
+AUTORIZAÇÕES DE POUSO
+==================================================
+FLIGHT   FROM
+1234      Amsterdam
+0000      Nenhum avião pousando
+8086      San Francisco
+2552      Paris
+4444      Londres
+
+Situação da fila
+
+0055      Tokyo
+6161      Hong Kong
